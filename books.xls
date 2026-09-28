@@ -1,0 +1,101 @@
+Book_ID,Book_Name,Author,Category,Copies,Available,Price,Issue_Date,Return_Date
+1001,AI Book 1,Ian Sommerville,Cloud,14,10,394,2026-01-01,2026-01-15
+1002,HTML Book 2,Andrew Tanenbaum,Data Science,20,15,1487,2026-01-02,2026-01-16
+1003,DBMS Book 3,Herbert Schildt,Web Development,6,2,1188,2026-01-03,2026-01-17
+1004,HTML Book 4,Wes McKinney,Cloud,20,5,1155,2026-01-04,2026-01-18
+1005,DBMS Book 5,Dennis Ritchie,AI,17,1,1440,2026-01-05,2026-01-19
+1006,Statistics Book 6,Andrew Tanenbaum,Web Development,6,1,1336,2026-01-06,2026-01-20
+1007,HTML Book 7,Ian Sommerville,Web Development,7,5,1023,2026-01-07,2026-01-21
+1008,CSS Book 8,Abraham Silberschatz,Programming,14,11,547,2026-01-08,2026-01-22
+1009,AI Book 9,Abraham Silberschatz,Operating System,17,17,397,2026-01-09,2026-01-23
+1010,AI Book 10,Guido van Rossum,Programming,9,8,684,2026-01-10,2026-01-24
+1011,Python Book 11,Dennis Ritchie,Web Development,19,15,327,2026-01-11,2026-01-25
+1012,Pandas Book 12,Abraham Silberschatz,Cloud,18,7,494,2026-01-12,2026-01-26
+1013,HTML Book 13,Tom Mitchell,Data Science,6,5,1051,2026-01-13,2026-01-27
+1014,Statistics Book 14,Ian Sommerville,Software Engineering,3,3,823,2026-01-14,2026-01-28
+1015,ML Book 15,Stuart Russell,Networking,17,17,598,2026-01-15,2026-01-29
+1016,Linux Book 16,Ian Sommerville,Cyber Security,11,5,1200,2026-01-16,2026-01-30
+1017,ML Book 17,Herbert Schildt,Networking,12,11,1445,2026-01-17,2026-01-31
+1018,Cloud Book 18,Andrew Tanenbaum,Networking,14,3,1169,2026-01-18,2026-02-01
+1019,Python Book 19,Abraham Silberschatz,Cloud,13,9,499,2026-01-19,2026-02-02
+1020,Algorithms Book 20,Wes McKinney,Operating System,4,0,948,2026-01-20,2026-02-03
+1021,Java Book 21,Andrew Tanenbaum,Networking,10,6,882,2026-01-21,2026-02-04
+1022,DBMS Book 22,Tom Mitchell,Cyber Security,16,7,568,2026-01-22,2026-02-05
+1023,Linux Book 23,Tom Mitchell,Operating System,3,1,1115,2026-01-23,2026-02-06
+1024,Pandas Book 24,Abraham Silberschatz,Database,6,6,446,2026-01-24,2026-02-07
+1025,JavaScript Book 25,Jon Duckett,Cloud,16,4,627,2026-01-25,2026-02-08
+1026,Python Book 26,Tom Mitchell,Cloud,15,3,692,2026-01-26,2026-02-09
+1027,C++ Book 27,Tom Mitchell,Networking,15,15,1381,2026-01-27,2026-02-10
+1028,Networks Book 28,Stuart Russell,Web Development,15,1,712,2026-01-28,2026-02-11
+1029,Pandas Book 29,Ian Sommerville,Programming,16,2,320,2026-01-29,2026-02-12
+1030,Data Analysis Book 30,Andrew Tanenbaum,Operating System,7,4,937,2026-01-30,2026-02-13
+1031,Java Book 31,Herbert Schildt,Data Science,3,3,1355,2026-01-31,2026-02-14
+1032,JavaScript Book 32,Dennis Ritchie,Programming,15,3,437,2026-02-01,2026-02-15
+1033,DBMS Book 33,Tom Mitchell,Programming,6,0,1484,2026-02-02,2026-02-16
+1034,Security Book 34,Stuart Russell,Database,10,4,847,2026-02-03,2026-02-17
+1035,Cloud Book 35,Jon Duckett,Operating System,3,1,856,2026-02-04,2026-02-18
+1036,Linux Book 36,Jon Duckett,Cloud,3,1,1289,2026-02-05,2026-02-19
+1037,Security Book 37,Andrew Tanenbaum,Cloud,15,4,1399,2026-02-06,2026-02-20
+1038,ML Book 38,Wes McKinney,Operating System,5,0,1037,2026-02-07,2026-02-21
+1039,Networks Book 39,Stuart Russell,Networking,20,10,1416,2026-02-08,2026-02-22
+1040,Python Book 40,Jon Duckett,AI,17,0,736,2026-02-09,2026-02-23
+1041,Linux Book 41,Tom Mitchell,Cloud,9,5,1284,2026-02-10,2026-02-24
+1042,Algorithms Book 42,Stuart Russell,Networking,7,5,347,2026-02-11,2026-02-25
+1043,Cloud Book 43,Ian Sommerville,Software Engineering,11,4,1341,2026-02-12,2026-02-26
+1044,Java Book 44,Jon Duckett,Cyber Security,15,11,1212,2026-02-13,2026-02-27
+1045,HTML Book 45,Wes McKinney,Cloud,18,13,980,2026-02-14,2026-02-28
+1046,AI Book 46,Wes McKinney,Networking,12,7,792,2026-02-15,2026-03-01
+1047,OS Book 47,Dennis Ritchie,Software Engineering,18,16,1201,2026-02-16,2026-03-02
+1048,Linux Book 48,Stuart Russell,Operating System,5,1,812,2026-02-17,2026-03-03
+1049,OS Book 49,Herbert Schildt,Web Development,18,18,1499,2026-02-18,2026-03-04
+1050,SQL Book 50,Tom Mitchell,Web Development,14,2,415,2026-02-19,2026-03-05
+1051,HTML Book 51,Jon Duckett,Web Development,16,10,1470,2026-02-20,2026-03-06
+1052,Networks Book 52,Herbert Schildt,Cyber Security,13,0,328,2026-02-21,2026-03-07
+1053,Cloud Book 53,Ian Sommerville,AI,12,6,488,2026-02-22,2026-03-08
+1054,DBMS Book 54,Herbert Schildt,Software Engineering,3,1,438,2026-02-23,2026-03-09
+1055,Linux Book 55,Abraham Silberschatz,Software Engineering,5,5,1490,2026-02-24,2026-03-10
+1056,Algorithms Book 56,Dennis Ritchie,Data Science,11,8,999,2026-02-25,2026-03-11
+1057,CSS Book 57,Jon Duckett,Software Engineering,10,9,1494,2026-02-26,2026-03-12
+1058,React Book 58,Abraham Silberschatz,Data Science,7,5,1389,2026-02-27,2026-03-13
+1059,Python Book 59,Andrew Tanenbaum,Database,19,2,1065,2026-02-28,2026-03-14
+1060,Pandas Book 60,Andrew Tanenbaum,Networking,12,8,991,2026-03-01,2026-03-15
+1061,Python Book 61,Abraham Silberschatz,AI,10,6,776,2026-03-02,2026-03-16
+1062,OS Book 62,Wes McKinney,Data Science,15,15,1166,2026-03-03,2026-03-17
+1063,HTML Book 63,Stuart Russell,Networking,9,3,1213,2026-03-04,2026-03-18
+1064,React Book 64,Guido van Rossum,Software Engineering,7,6,622,2026-03-05,2026-03-19
+1065,JavaScript Book 65,Dennis Ritchie,Web Development,13,11,672,2026-03-06,2026-03-20
+1066,HTML Book 66,Herbert Schildt,Programming,4,0,1459,2026-03-07,2026-03-21
+1067,C++ Book 67,Ian Sommerville,Operating System,10,7,459,2026-03-08,2026-03-22
+1068,Algorithms Book 68,Guido van Rossum,AI,14,11,749,2026-03-09,2026-03-23
+1069,AI Book 69,Guido van Rossum,AI,18,9,1300,2026-03-10,2026-03-24
+1070,CSS Book 70,Stuart Russell,Data Science,19,10,1387,2026-03-11,2026-03-25
+1071,DBMS Book 71,Dennis Ritchie,AI,8,2,523,2026-03-12,2026-03-26
+1072,Java Book 72,Abraham Silberschatz,Programming,19,6,1021,2026-03-13,2026-03-27
+1073,SQL Book 73,Guido van Rossum,Networking,14,0,744,2026-03-14,2026-03-28
+1074,OS Book 74,Dennis Ritchie,Data Science,18,10,946,2026-03-15,2026-03-29
+1075,Python Book 75,Dennis Ritchie,Database,19,13,683,2026-03-16,2026-03-30
+1076,HTML Book 76,Ian Sommerville,Data Science,13,3,1028,2026-03-17,2026-03-31
+1077,DBMS Book 77,Guido van Rossum,Data Science,15,7,313,2026-03-18,2026-04-01
+1078,Security Book 78,Stuart Russell,Cloud,12,11,977,2026-03-19,2026-04-02
+1079,C++ Book 79,Dennis Ritchie,Cloud,20,18,1107,2026-03-20,2026-04-03
+1080,CSS Book 80,Dennis Ritchie,Networking,3,1,1114,2026-03-21,2026-04-04
+1081,C++ Book 81,Herbert Schildt,AI,10,5,1307,2026-03-22,2026-04-05
+1082,Networks Book 82,Wes McKinney,Software Engineering,11,3,1484,2026-03-23,2026-04-06
+1083,DBMS Book 83,Wes McKinney,Cloud,8,5,721,2026-03-24,2026-04-07
+1084,DBMS Book 84,Herbert Schildt,Web Development,5,5,768,2026-03-25,2026-04-08
+1085,Pandas Book 85,Wes McKinney,Cloud,11,9,888,2026-03-26,2026-04-09
+1086,Statistics Book 86,Herbert Schildt,Programming,17,10,1153,2026-03-27,2026-04-10
+1087,HTML Book 87,Ian Sommerville,Database,17,2,792,2026-03-28,2026-04-11
+1088,React Book 88,Tom Mitchell,Operating System,7,4,304,2026-03-29,2026-04-12
+1089,C++ Book 89,Herbert Schildt,Data Science,6,5,1134,2026-03-30,2026-04-13
+1090,ML Book 90,Tom Mitchell,Software Engineering,5,4,536,2026-03-31,2026-04-14
+1091,OS Book 91,Guido van Rossum,Networking,4,0,1114,2026-04-01,2026-04-15
+1092,Algorithms Book 92,Ian Sommerville,Cloud,9,3,1424,2026-04-02,2026-04-16
+1093,SQL Book 93,Jon Duckett,Database,3,2,866,2026-04-03,2026-04-17
+1094,Statistics Book 94,Guido van Rossum,Cyber Security,9,1,566,2026-04-04,2026-04-18
+1095,Pandas Book 95,Dennis Ritchie,Cyber Security,11,2,442,2026-04-05,2026-04-19
+1096,Data Analysis Book 96,Dennis Ritchie,Database,10,4,942,2026-04-06,2026-04-20
+1097,Algorithms Book 97,Tom Mitchell,Cloud,10,0,1440,2026-04-07,2026-04-21
+1098,CSS Book 98,Guido van Rossum,Operating System,12,10,610,2026-04-08,2026-04-22
+1099,Algorithms Book 99,Wes McKinney,Database,5,0,498,2026-04-09,2026-04-23
+1100,OS Book 100,Herbert Schildt,Programming,13,12,1018,2026-04-10,2026-04-24
